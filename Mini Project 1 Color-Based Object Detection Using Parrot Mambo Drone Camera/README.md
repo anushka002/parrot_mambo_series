@@ -1,8 +1,13 @@
 # Color-Based Object Detection Using Parrot Mambo Drone Camera
 
 **Author:** Anushka Satav G 
-**Masters Student in Robotics and Autonomous Systems (AI), Arizona State University, Tempe, AZ, USA**
 
+**Masters Student in Robotics and Autonomous Systems (AI)**
+
+**Arizona State University, Tempe, AZ, USA**
+
+---
+![Demo 1](https://github.com/user-attachments/assets/22020549-48d6-4dfe-9658-e8772a628fb7)
 ---
 
 ## Keywords
