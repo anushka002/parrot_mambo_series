@@ -13,4 +13,3 @@
 ![ezgif-6cb652c762a512](https://github.com/user-attachments/assets/cc05eab0-488c-4364-9355-5c8671e3d16a)
 
 [Link to repository](https://github.com/anushka002/parrot_mambo_series/blob/main/Mini%20Project%202%20Keyboard-Controlled%20Drone%20Navigation%20and%20Color-Based%20Landing%20System/README.md)
----
