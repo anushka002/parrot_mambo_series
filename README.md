@@ -18,7 +18,7 @@ Imagine a drone that doesn’t just fly—it *sees*. In this project, we transfo
 ### 2. Mini Project 2: Keyboard Precision & Smart Landing 🖥️🛬  
 **Control Meets Autonomy in One Elegant Package**
 
-![ezgif-21ca486c795107](https://github.com/user-attachments/assets/b33bc723-4178-465d-834b-85b9ab41e964)
+![gif for github](https://github.com/user-attachments/assets/c598c7f1-8b90-4bd6-8f04-35ae61201e95)
 
 Take the helm and command the skies! This project elevates the Parrot Mambo into a **keyboard-driven navigator** with a brain for color-based landings. Pilot it with intuitive controls (‘w’, ‘a’, ‘s’, ‘d’) to zero in on a colored target, then watch it execute a flawless, controlled descent—all autonomously triggered by vision data. It’s a marriage of manual dexterity and smart automation, built for those who thrive on technical challenges. Ready to test your skills?  
 
