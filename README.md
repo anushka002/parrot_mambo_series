@@ -1,10 +1,15 @@
-# Parrot Mambo Mini Drone: Precision Meets Innovation 🚁🔍
+# Parrot Mambo Mini Drone Series: Precision Meets Innovation
 
 Step into the realm of cutting-edge drone experimentation with the **Parrot Mambo Mini Drone**! This compact powerhouse is more than a toy—it’s a platform for pushing boundaries in aerial robotics. We’ve unleashed its potential with two meticulously crafted mini-projects that blend advanced computer vision with seamless control. Designed for engineers, coders, and innovators, these projects showcase what’s possible when precision meets creativity. Ready to explore? Let’s dive in! ⚙️
 
----
+**Requirements**: Parrot Mambo Mini Drone
 
-### 1. Mini Project 1: Color Detection Mastery 🎨  
+---
+### Setting up the Hardware
+To work with Parrot Mambo Mini Drone:
+
+---
+### 1. Mini Project 1: Color Detection 🛬 
 **Harnessing Vision with the Parrot Mambo’s Camera**
 
 ![Demo 1](https://github.com/user-attachments/assets/22020549-48d6-4dfe-9658-e8772a628fb7)
@@ -15,7 +20,7 @@ Imagine a drone that doesn’t just fly—it *sees*. In this project, we transfo
 
 ---
 
-### 2. Mini Project 2: Keyboard Precision & Smart Landing 🖥️🛬  
+### 2. Mini Project 2: Keyboard Precision & Smart Landing 🖥️
 **Control Meets Autonomy in One Elegant Package**
 
 ![gif for github](https://github.com/user-attachments/assets/c598c7f1-8b90-4bd6-8f04-35ae61201e95)
