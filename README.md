@@ -6,7 +6,17 @@ Step into the realm of cutting-edge drone experimentation with the **Parrot Mamb
 
 ---
 ### Setting up the Hardware
-To work with Parrot Mambo Mini Drone:
+To work with Parrot Mambo Mini Drone, Please refer to following webpages - 
+
+1. https://www.mathworks.com/help/simulink/supportpkg/parrot_ug/install-windows-bluetooth-drivers.htmlLinks to an external site.
+
+2. https://www.mathworks.com/help/supportpkg/parrot/ref/getting-started-with-simulink-support-package-for-parrot-minidrones.html
+
+3. https://www.mathworks.com/help/supportpkg/parrot/ref/external-mode-for-parrot-minidrones.html
+
+4. https://www.mathworks.com/help/supportpkg/parrot/ref/communicating-with-parrot-minidrone-using-tcpip-and-udp.htmlLinks to an external site.
+
+ 
 
 ---
 ### 1. Mini Project 1: Color Detection 🛬 
