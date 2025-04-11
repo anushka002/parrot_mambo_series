@@ -48,7 +48,8 @@ Take the helm and command the skies! This project elevates the Parrot Mambo into
 ### 3. Mini Project 3: Autonomous Line Following & Precision Landing 🤖  
 **Fully Autonomous Navigation with Real-Time Computer Vision**
 
-![line-following-demo](https://github.com/user-attachments/assets/your-upcoming-gif-placeholder.gif)
+![final project 3 gif](https://github.com/user-attachments/assets/d370cfe6-31b9-4911-8df2-1839df3afbf5)
+
 
 In this advanced autonomous system, the Parrot Mambo becomes a self-navigating robot. Using only its downward-facing camera, the drone detects and follows an RGB line with real-time image processing. Upon recognizing symmetry in the visual data, it performs an **autonomous landing** with smooth, controlled descent—no manual intervention needed.  
 
