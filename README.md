@@ -45,6 +45,19 @@ Take the helm and command the skies! This project elevates the Parrot Mambo into
 
 ---
 
+### 3. Mini Project 3: Autonomous Line Following & Precision Landing 🤖  
+**Fully Autonomous Navigation with Real-Time Computer Vision**
+
+![line-following-demo](https://github.com/user-attachments/assets/your-upcoming-gif-placeholder.gif)
+
+In this advanced autonomous system, the Parrot Mambo becomes a self-navigating robot. Using only its downward-facing camera, the drone detects and follows an RGB line with real-time image processing. Upon recognizing symmetry in the visual data, it performs an **autonomous landing** with smooth, controlled descent—no manual intervention needed.  
+
+This project combines the power of MATLAB’s Color Thresholder with Simulink’s Stateflow logic and serves as a foundation for future research in dynamic path planning and visual servoing.
+
+👉 [View the Full Project](https://github.com/anushka002/parrot_mambo_series/blob/main/Mini%20Project%203%20Autonomous%20Line%20Following%20and%20Precision%20Landing/README.md)
+
+---
+
 ### Why This Repo Deserves Your Attention 🧠  
 - **Compact Powerhouse**: The Parrot Mambo proves small drones can tackle big ideas—perfect for prototyping and experimentation.  
 - **Pro-Grade Code**: Dive into well-structured scripts, ripe for tweaking, scaling, or integrating into your own projects.  
