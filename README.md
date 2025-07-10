@@ -59,6 +59,30 @@ This project combines the power of MATLAB’s Color Thresholder with Simulink’
 
 ---
 
+### 4. Mini Project 4: Vision-Guided Precision Landing on a Moving Robot 🎯🚘  
+
+![Parrot Mambo Landing Demo](https://github.com/user-attachments/assets/134625fe-b997-42a7-aa94-ea749ca05c97)
+
+This was the most technically demanding and rewarding project in the series. Here, the Parrot Mambo drone was challenged to autonomously **detect, track, and land on a moving line-follower robot** using its onboard downward-facing camera and real-time vision processing in Simulink.
+
+**What made this special?**  
+- Used **HSV color segmentation** for resilient platform detection under variable lighting (far outperforming RGB).
+- Tuned thresholds using **multiple images from different lighting conditions** to build robust masks.
+- Applied **Median filtering and Blob Analysis** for clean, reliable centroid tracking.
+- Deployed a **Stateflow-based control logic** managing all flight phases: Hover ➝ Cruise ➝ Smooth Descent ➝ Soft Landing.
+- Tackled tough challenges like lateral drift during descent and soft-touch touchdowns on a moving target — solved via carefully tuned proportional controls and stability timers.
+
+**Key Learnings:**  
+📝 Lighting has a huge impact on real-time vision systems.  
+📝 HSV segmentation paired with multi-condition thresholding vastly improves detection robustness.  
+📝 Coordinating precise landings on a moving object is hard — but achievable with tight feedback loops and well-structured control logic.
+
+This project isn’t just a demo — it’s a working proof of vision-based dynamic UAV-UGV interaction, laying groundwork for future multi-agent, path-planning, and coordinated robotics research.
+
+👉 [Explore the Final Project Here](https://github.com/anushka002/parrot_mambo_series/tree/main/FINAL%20PROJECT)
+
+---
+
 ### Why This Repo Deserves Your Attention 🧠  
 - **Compact Powerhouse**: The Parrot Mambo proves small drones can tackle big ideas—perfect for prototyping and experimentation.  
 - **Pro-Grade Code**: Dive into well-structured scripts, ripe for tweaking, scaling, or integrating into your own projects.  
